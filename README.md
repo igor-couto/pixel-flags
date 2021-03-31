@@ -6,10 +6,10 @@ A collection of tiny 75x50 pixel art flags. This repository contains 204 country
 
 ### How to use
 ```
-https://igor-couto.github.io/circle-flags/flags/xx.png
+igor-couto.github.io/pixel-flags/flags/xx.png
 ```
 Replace the `xx` with the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of a country.
-ISO 3166-1 alpha-2 defines two-letter country codes which are used most prominently for the Internet's country code domains.
+The two-letter country codes are used most prominently for the Internet's country domains.
 
 For instance, the following HTML code: 
 
