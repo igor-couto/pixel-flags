@@ -21,7 +21,6 @@ Results in this:
 
 ![](https://igor-couto.github.io/pixel-flags/flags/br.png)
 
-<br>
 ### Author
 
 - **Igor Couto** - [igor.fcouto@gmail.com](mailto:igor.fcouto@gmail.com)
