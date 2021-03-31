@@ -1,6 +1,6 @@
 ## Pixel Flags
 
-A collection of tiny 75x50 pixel art flags. This repository contains 204 country flag PNG icons as shown here:
+A collection of tiny 15x10 pixel art flags. This repository contains 204 country flag PNG icons as shown here:
 
 ![](https://github.com/igor-couto/images/blob/main/pixel-flags/preview.png)
 
