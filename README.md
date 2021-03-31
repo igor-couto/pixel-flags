@@ -2,7 +2,7 @@
 
 A collection of tiny 75x50 pixel art flags. This repository contains 204 country flag PNG icons as shown here:
 
-![](https://igor-couto.github.io/images/pixel-flags/preview.png)
+![](https://github.com/igor-couto/images/blob/main/pixel-flags/preview.png)
 
 ### How to use
 ```
