@@ -6,7 +6,7 @@ A collection of tiny 15x10 pixel art flags. This repository contains 204 country
 
 ### How to use
 ```
-igor-couto.github.io/pixel-flags/flags/xx.png
+https://igor-couto.github.io/pixel-flags/flags/br.png
 ```
 Replace the `xx` with the [ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) code of a country.
 The two-letter country codes are used most prominently for the Internet's country domains.
