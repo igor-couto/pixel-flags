@@ -17,9 +17,7 @@ For instance, the following HTML code:
 <img src="https://igor-couto.github.io/pixel-flags/flags/br.png">
 ```
 
-Results in this:
-
-![](https://igor-couto.github.io/pixel-flags/flags/br.png)
+Results in this: ![](https://igor-couto.github.io/pixel-flags/flags/br.png)
 
 ### Author
 
