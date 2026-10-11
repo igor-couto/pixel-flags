@@ -1,5 +1,7 @@
 ## Pixel Flags
 
+![GitHub Stars](https://img.shields.io/github/stars/igor-couto/pixel-flags)
+
 A collection of tiny 15x10 pixel art flags. This repository contains 204 country flag PNG icons as shown here:
 
 ![](https://github.com/igor-couto/images/blob/main/pixel-flags/preview.png)
