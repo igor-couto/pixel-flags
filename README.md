@@ -2,7 +2,7 @@
 
 ![GitHub Stars](https://img.shields.io/github/stars/igor-couto/pixel-flags)
 
-A collection of tiny 15x10 pixel art flags. This repository contains 204 country flag icons, available in PNG and WebP:
+A collection of tiny 15x10 pixel art flags. This repository contains 204 country flag icons, available in PNG, WebP, and AVIF.
 
 ![Flags Preview](docs/preview.png)
 
@@ -26,7 +26,7 @@ PNG:
 <img src="https://igor-couto.github.io/pixel-flags/flags/75x50/br.png">
 ```
 
-For WebP, use the same path with the `.webp` extension. The WebP versions preserve the PNG dimensions, colors, and transparency without loss. All original PNGs remain available.
+Use the same path with `.webp` or `.avif` at any size. Both formats preserve the PNG dimensions, colors, and transparency without loss.
 
 
 Results in this:
